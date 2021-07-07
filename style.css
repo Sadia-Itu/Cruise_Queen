@@ -64,6 +64,7 @@ nav ul li a:hover, a.active{
     float: right;
     width: 65%;
     margin-left: 180px;
+    
 }
 .booking-form h3{
     margin: 10px 0px;
@@ -122,3 +123,19 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+#confirm{
+    display: none;
+    
+}
+#form{
+    display: block;
+}
+.CONFIRM{
+    background-color: rgb(54, 58, 58);
+    color: #ddd;
+    text-align: center;
+    height: 150px;
+    width: 300px;
+
+}
+
